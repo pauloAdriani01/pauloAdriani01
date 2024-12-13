@@ -1,5 +1,6 @@
 # Hey! My name is Paulo Henrique Adriani, welcome to my profile! =)
 I'm a Brazilian programming and technology student who loves coding and all things tech! I started programming and studying it in 2024 with some Python classes at my school, and I've never stopped since.
+I’m currently developing my skills in some programming languages and frameworks until I start an advanced course.
 
 ##
 
