@@ -1,4 +1,7 @@
-## Hey! My name is Paulo Henrique Adriani, welcome to my profile! =)
+# Hey! My name is Paulo Henrique Adriani, welcome to my profile! =)
+I'm a Brazilian programming and technology student who loves coding and all things tech! I started programming and studying it in 2024 with some Python classes at my school, and I've never stopped since.
+
+##
 
 <div>
   <a href="https://github.com/pauloAdriani01"></a>
