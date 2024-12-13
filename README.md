@@ -5,9 +5,10 @@ I’m currently developing my skills in some programming languages and framework
 ##
 
 <div>
-  <a href="https://github.com/pauloAdriani01"></a>
+  <a href="https://github.com/pauloAdriani01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloAdriani01&show_icons=true&theme=tokyonight">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloAdriani01&layout=compact&theme=tokyonight">
+  </a>
 </div>
 
 <div style="display> inline_block"><br>
