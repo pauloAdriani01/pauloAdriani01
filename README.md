@@ -1,4 +1,4 @@
-## Olá! Me chamo Paulo Adriani 
+## Hey! My name is Paulo Henrique Adriani, welcome to my profile! =)
 
 <div>
   <a href="https://github.com/pauloAdriani01"></a>
