@@ -11,11 +11,4 @@ I’m currently developing my skills in backend development until I start an adv
   </a>
 </div>
 
-<div style="display> inline_block"><br>
-  <img align="center" alt="PH-PY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-</div>
-
 ##
-
-
-
