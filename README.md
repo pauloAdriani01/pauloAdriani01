@@ -3,6 +3,15 @@
 I'm a Brazilian programming and technology student who loves coding and all things tech! I started programming in 2024 with some Python classes at my school, and I haven’t stopped since.
 I’m currently in an advanced course studying Systems Analysis and Development at the Instituto Federal de São Paulo.
 
+### Tools I'm Exploring
+<div>
+  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+</div>
+
 ### GitHub Stats
 <div>
   <a href="https://github.com/pauloAdriani01">
