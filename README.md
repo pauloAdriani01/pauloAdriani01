@@ -23,7 +23,7 @@ I’m currently in an advanced course studying Systems Analysis and Development 
 ### GitHub Stats
 <div>
   <a href="https://github.com/pauloAdriani01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloAdriani01&show_icons=true&theme=tokyonight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloAdriani01&layout=compact&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=pauloAdriani01&show_icons=true&theme=tokyonight">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloAdriani01&layout=donut&theme=tokyonight">
   </a>
 </div>
