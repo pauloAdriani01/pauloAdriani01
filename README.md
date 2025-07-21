@@ -3,20 +3,12 @@
 I'm a Brazilian programming and technology student who loves coding and all things tech! I started programming in 2024 with some Python classes at my school, and I haven’t stopped since.
 I’m currently in an advanced course studying Systems Analysis and Development at the Instituto Federal de São Paulo.
 
-### Tech Stack
-<div>
-  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-</div>
-
 ### Tools I'm Exploring
 <div>
-  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img height="45em" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png">
+  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
 </div>
 
 ### GitHub Stats
