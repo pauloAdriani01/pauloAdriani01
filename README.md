@@ -7,8 +7,8 @@ I’m currently in an advanced course studying Systems Analysis and Development 
 
 #### Back-end
 <div>
-  <img height="45em" alt="c" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
   <img height="45em" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img height="45em" alt="c" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
   <img height="45em" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
 </div>
 
