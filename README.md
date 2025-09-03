@@ -33,7 +33,7 @@ Also, now my main focus is studying <strong>Java and its applications</strong>. 
 
 <div>
   <a href="https://github.com/pauloAdriani01">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloAdriani01&langs_count=8&layout=donut&theme=tokyonight">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloAdriani01&langs_count=8&layout=donut&theme=radical">
   </a>
 </div>
 
