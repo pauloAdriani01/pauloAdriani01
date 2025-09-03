@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&letterSpacing=0.2rem&pause=1000&color=7200D8&width=435&lines=Hey%2C+my+name+is+Paulo+Adriani!;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+my+name+is+Paulo+Adriani!+%F0%9F%91%8B;Welcome+to+my+profile!+)](https://git.io/typing-svg)
 
 #
 
