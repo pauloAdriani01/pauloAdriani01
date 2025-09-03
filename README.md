@@ -1,7 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&letterSpacing=0.2rem&pause=1000&color=7200D8&width=435&lines=Hey%2C+my+name+is+Paulo+Adriani!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
+#
+
 I'm a Brazilian programming and technology student who loves coding and all things tech! I started programming in 2024 with some Python classes at my school, and I haven’t stopped since.
+<br>
 I’m currently in an advanced course studying Systems Analysis and Development at the Instituto Federal de São Paulo.
+<br>
+Also, now my main focus is studying Java and its applications. Working on learning the syntax and also the key tools realeated to the language.
+#
 
 ### Tools I'm Exploring
 
