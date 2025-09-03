@@ -2,11 +2,11 @@
 
 #
 
-I'm a Brazilian programming and technology student who loves coding and all things tech! I started programming in 2024 with some Python classes at my school, and I haven’t stopped since.
+I'm a Brazilian programming and technology student who loves coding and all things tech! I <strong>started programming in 2024</strong> with some Python classes at my school, and I haven’t stopped since.
 <br>
-I’m currently in an advanced course studying Systems Analysis and Development at the Instituto Federal de São Paulo.
+I’m currently in an <strong>advanced course studying Systems Analysis and Development</strong> at the Instituto Federal de São Paulo.
 <br>
-Also, now my main focus is studying Java and its applications. Working on learning the syntax and also the key tools realeated to the language.
+Also, now my main focus is studying <strong>Java and its applications</strong>. Working on learning the syntax and also the key tools realeated to the language.
 
 #
 
@@ -18,7 +18,7 @@ Also, now my main focus is studying Java and its applications. Working on learni
   <img height="67em" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
 
-### Other technologies that I'm also learning
+### Other Technologies That I'm Also Learning
 
 <div>
   <img height="45em" alt="c" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
@@ -31,10 +31,10 @@ Also, now my main focus is studying Java and its applications. Working on learni
 
 #
 
-### GitHub Stats
 <div>
   <a href="https://github.com/pauloAdriani01">
-  <img src="https://github-readme-stats.vercel.app/api?username=pauloAdriani01&show_icons=true&theme=tokyonight">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloAdriani01&layout=donut&theme=tokyonight">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloAdriani01&langs_count=8&layout=donut&theme=tokyonight">
   </a>
 </div>
+
+#
