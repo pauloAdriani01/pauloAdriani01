@@ -5,8 +5,6 @@
 I'm a Brazilian programming and technology student who loves coding and all things tech! I <strong>started programming in 2024</strong> with some Python classes at my school, and I haven’t stopped since.
 <br>
 I’m currently in an <strong>advanced course studying Systems Analysis and Development</strong> at the Instituto Federal de São Paulo.
-<br>
-Also, now my main focus is studying <strong>Java and its applications</strong>. Working on learning the syntax and also the key tools realeated to the language.
 
 #
 
