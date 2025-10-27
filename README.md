@@ -1,14 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+my+name+is+Paulo+Adriani!+%F0%9F%91%8B;Welcome+to+my+profile!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1!+O+meu+nome+%C3%A9+Paulo+Adriani!+%F0%9F%91%8B;Bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 #
 
-I'm a Brazilian programming and technology student who loves coding and all things tech! I <strong>started programming in 2024</strong> with some Python classes at my school, and I haven’t stopped since.
+Sou um estudante brasileiro de programação e tecnologia que adora codificar e tudo relacionado à tecnologia! <strong>Comecei a programar em 2024</strong> com algumas aulas de Python na minha escola e não parei desde então.
 <br>
-I’m currently in an <strong>advanced course studying Systems Analysis and Development</strong> at the Instituto Federal de São Paulo.
+Atualmente, estou no curso superior de <strong>Análise e Desenvolvimento de Sistemas</strong> no Instituto Federal de São Paulo.
 
 #
 
-### Main Tools I'm Exploring
+### Principais Ferramentas que Estou Estudando
 
 <div>
   <img height="67em" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -16,7 +16,7 @@ I’m currently in an <strong>advanced course studying Systems Analysis and Deve
   <img height="67em" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
 
-### Other Technologies That I'm Also Learning
+### Outras Tecnologias que Estou Aprendendo Também
 
 <div>
   <img height="45em" alt="c" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
