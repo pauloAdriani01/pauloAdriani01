@@ -9,7 +9,7 @@ Atualmente, estou no curso superior de **Análise e Desenvolvimento de Sistemas*
 ### Principais Ferramentas que Estou Estudando
 
 <div>
-  <img height="67em" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img height="67em" alt="py" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img height="67em" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img height="67em" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
@@ -21,6 +21,12 @@ Atualmente, estou no curso superior de **Análise e Desenvolvimento de Sistemas*
   <img height="45em" alt="sql "src="https://github.com/user-attachments/assets/dbfe9fce-8cdb-4d8c-826c-8ce151b04d8d">
   <img height="45em" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img height="45em" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+</div>
+
+### Meu Stack de Desenvolvimento
+
+<div>
+  <img height="45em" alt="md" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
 </div>
 
 ---
