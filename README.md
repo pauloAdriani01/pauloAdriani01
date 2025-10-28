@@ -2,9 +2,9 @@
 
 #
 
-Sou um estudante brasileiro de programação e tecnologia que adora codificar e tudo relacionado à tecnologia! <strong>Comecei a programar em 2024</strong> com algumas aulas de Python na minha escola e não parei desde então.
+Sou um estudante brasileiro de programação e tecnologia que adora codificar e tudo relacionado à tecnologia! **Comecei a programar em 2024** com algumas aulas de Python na minha escola e não parei desde então.
 <br>
-Atualmente, estou no curso superior de <strong>Análise e Desenvolvimento de Sistemas</strong> no Instituto Federal de São Paulo.
+Atualmente, estou no curso superior de **Análise e Desenvolvimento de Sistemas** no Instituto Federal de São Paulo.
 
 #
 
