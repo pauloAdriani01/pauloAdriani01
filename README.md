@@ -1,12 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1!+O+meu+nome+%C3%A9+Paulo+Adriani!+%F0%9F%91%8B;Bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
-#
-
 Sou um estudante brasileiro de programação e tecnologia que adora codificar e tudo relacionado à tecnologia! **Comecei a programar em 2024** com algumas aulas de Python na minha escola e não parei desde então.
 <br>
 Atualmente, estou no curso superior de **Análise e Desenvolvimento de Sistemas** no Instituto Federal de São Paulo.
 
-#
+---
 
 ### Principais Ferramentas que Estou Estudando
 
@@ -25,7 +23,7 @@ Atualmente, estou no curso superior de **Análise e Desenvolvimento de Sistemas*
   <img height="45em" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 </div>
 
-#
+---
 
 <div>
   <a href="https://github.com/pauloAdriani01">
@@ -33,4 +31,4 @@ Atualmente, estou no curso superior de **Análise e Desenvolvimento de Sistemas*
   </a>
 </div>
 
-#
+---
