@@ -30,3 +30,14 @@ Atualmente, estou no curso superior de **Análise e Desenvolvimento de Sistemas*
 </div>
 
 ---
+
+### Meus Stats do Github
+
+<div>
+  <a href="https://github.com/pauloAdriani01">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=pauloAdriani01&show_icons=true&theme=radical"> 
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloAdriani01&langs_count=8&layout=donut&theme=radical">
+  </a>
+</div>
+
+---
