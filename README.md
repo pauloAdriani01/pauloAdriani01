@@ -38,8 +38,8 @@ Atualmente, estou no curso superior de **Análise e Desenvolvimento de Sistemas*
 
 <div>
   <a href="https://github.com/pauloAdriani01">
-  <img height="280em" src="https://githubcard.com/pauloAdriani01.svg?d=EbmSCl_K">
-  <img height="255em" src="https://githubcard.com/pauloAdriani01.svg?d=Lm-bTSmk">
+  <img height="250em" src="https://githubcard.com/pauloAdriani01.svg?d=EbmSCl_K">
+  <img height="250em" src="https://githubcard.com/pauloAdriani01.svg?d=Lm-bTSmk">
   </a>
 </div>
 
