@@ -59,9 +59,14 @@ No activity tracked
 
   <h1>👋Fale Comigo!</h1>
 
-  <a href="mailto:paulohadriani2007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:paulohadriani2007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
   
-  <a href="https://www.linkedin.com/in/paulohenriquesadriani0881/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/paulohenriquesadriani0881/">  
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
 </div>
 
 ---
