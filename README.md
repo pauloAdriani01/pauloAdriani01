@@ -31,3 +31,9 @@ Atualmente, estou no curso superior de **Análise e Desenvolvimento de Sistemas*
 </div>
 
 ---
+
+## Meu Histórico de Desenvolvimento:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
