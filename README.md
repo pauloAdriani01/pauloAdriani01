@@ -31,11 +31,3 @@ Atualmente, estou no curso superior de **Análise e Desenvolvimento de Sistemas*
 </div>
 
 ---
-
-### Minhas Estátisticas:
-
-<!-- START_SECTION:waka 
-END_SECTION -->
-
-
----
