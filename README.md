@@ -1,9 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1!+O+meu+nome+%C3%A9+Paulo+Adriani!+%F0%9F%91%8B;Bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
-<picture>
-  <source media="(max-width: 600px)" srcset="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDd6dHF6MDRhMmZxdGRkNnRlc21mMDV4a3FoNWRhZzc1bzczZGJveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1FbU0sArGktaGGDe99/giphy.gif">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDd6dHF6MDRhMmZxdGRkNnRlc21mMDV4a3FoNWRhZzc1bzczZGJveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1FbU0sArGktaGGDe99/giphy.gif" align="right" width="150">
-</picture>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDd6dHF6MDRhMmZxdGRkNnRlc21mMDV4a3FoNWRhZzc1bzczZGJveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1FbU0sArGktaGGDe99/giphy.gif" width="150" align="right">
 
 Sou um estudante brasileiro de programação e tecnologia que adora mexer com código!  
 **Comecei a programar em 2024** com algumas aulas de Python na minha escola e não parei desde então.  
