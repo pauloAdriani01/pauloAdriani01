@@ -17,4 +17,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_TIME: true
           SHOW_TOTAL: true
-          TIME_RANGE: last_7_days
+          TIME_RANGE: all_time
