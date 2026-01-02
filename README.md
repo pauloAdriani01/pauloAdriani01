@@ -2,10 +2,10 @@
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDd6dHF6MDRhMmZxdGRkNnRlc21mMDV4a3FoNWRhZzc1bzczZGJveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1FbU0sArGktaGGDe99/giphy.gif" width="150" align="right">
 
-Sou um estudante brasileiro de programação e tecnologia que adora mexer com código!  
-**Comecei a programar em 2024** com algumas aulas de Python na minha escola e não parei desde então.  
-Atualmente, estou no curso superior de **Análise e Desenvolvimento de Sistemas** no Instituto Federal de São Paulo, no **Terceiro Semestre**.  
-Meu foco principal atual é o **Desenvolvimento Backend**.
+Sou um estudante brasileiro de programação e tecnologia que adora mexer com código    
+**Comecei a programar em 2024** com algumas aulas de Python na minha escola e não parei desde então   
+Atualmente, estou no curso superior de **Análise e Desenvolvimento de Sistemas** no Instituto Federal de São Paulo, no **Terceiro Semestre**  
+Meu foco principal atual é o **Desenvolvimento Backend**  
 
 <br clear="right">
 
@@ -33,25 +33,12 @@ Meu foco principal atual é o **Desenvolvimento Backend**.
 
 <p>
   <img height="48em" alt="django" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-  <img height="48em" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img height="48em" alt="c" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
   <img height="48em" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img height="48em" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img height="48em" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img height="48em" alt="c" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
+  <img height="48em" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
-
----
-
-## 📊 Meu Histórico de Desenvolvimento:
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 ---
 
