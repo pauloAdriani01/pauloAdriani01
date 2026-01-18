@@ -32,11 +32,9 @@ Meu foco principal atual é o **Desenvolvimento Backend**
 ### 📖 Ferramentas que Estou Estudando no Momento
 
 <p>
-  <img height="48em" alt="django" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+  <img height="48em" alt="c" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
   <img height="48em" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img height="48em" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img height="48em" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img height="48em" alt="c" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
   <img height="48em" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
 
