@@ -44,7 +44,7 @@ Meu foco principal atual é o **Desenvolvimento Backend**
 
   <h1>👋Fale Comigo!</h1>
 
-  <a href="mailto:paulohadriani2007@gmail.com">
+  <a href="https://is.gd/xkvhFY">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
