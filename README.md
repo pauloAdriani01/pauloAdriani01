@@ -40,11 +40,6 @@ Meu foco principal atual é o **Desenvolvimento Backend**
 </p>
 
 ---
-### Minhas Estatísticas
-
-<img src="wakatime/stats.svg?v=20260121" height=300px>
-
----
 
 <div align="center">
 
