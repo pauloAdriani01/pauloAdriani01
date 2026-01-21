@@ -42,7 +42,7 @@ Meu foco principal atual é o **Desenvolvimento Backend**
 ---
 ### Minhas Estatísticas
 
-<img src="wakatime/stats.svg" height=300px>
+<img src="wakatime/stats.svg?v=20260121" height=300px>
 
 ---
 
