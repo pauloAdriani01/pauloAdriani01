@@ -14,9 +14,14 @@ Meu foco principal atual é o **Desenvolvimento Backend**
 ## 💻 Meu Stack de Desenvolvimento
 
 <p>
+  <img height="60em" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img height="60em" alt="py" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img height="60em" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img height="60em" alt="sql "src="https://github.com/user-attachments/assets/dbfe9fce-8cdb-4d8c-826c-8ce151b04d8d">
+  <img height="60em" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img height="60em" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img height="60em" alt="c" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
+  <img height="60em" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img height="60em" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img height="60em" alt="md" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
 </p>
 
@@ -25,18 +30,6 @@ Meu foco principal atual é o **Desenvolvimento Backend**
 <p>
   <img height="53em" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img height="53em" alt="intellij" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-</p>
-
----
-
-### 📖 Ferramentas que Estou Estudando no Momento
-
-<p>
-  <img height="48em" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img height="48em" alt="c" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
-  <img height="48em" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img height="48em" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img height="48em" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
 
 ---
