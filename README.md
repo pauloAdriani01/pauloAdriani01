@@ -34,6 +34,11 @@ Meu foco principal atual é o **Desenvolvimento Backend**
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 <div align="center">
 
   <h1>👋Fale Comigo!</h1>
