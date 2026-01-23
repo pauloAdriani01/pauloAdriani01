@@ -34,6 +34,8 @@ Meu foco principal atual é o **Desenvolvimento Backend**
 
 ---
 
+### 📊 Minhas Estatísticas
+
 <!--START_SECTION:waka-->
 
 ```txt
