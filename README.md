@@ -39,15 +39,15 @@ Meu foco principal atual é o **Desenvolvimento Backend**
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2026 - To: 23 January 2026
+From: 18 January 2026 - To: 25 January 2026
 
-Total Time: 5 hrs 26 mins
+Total Time: 7 hrs 20 mins
 
-Java             4 hrs 29 mins   ████████████████████▓░░░░   82.49 %
-Python           35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
-PHP              12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-CSS              8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Java             6 hrs 22 mins   █████████████████████▓░░░   86.94 %
+Python           35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
+PHP              12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+CSS              8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
