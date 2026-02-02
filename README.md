@@ -28,12 +28,12 @@ Atualmente, estou no curso superior de **Análise e Desenvolvimento de Sistemas*
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2026 - To: 31 January 2026
+From: 25 January 2026 - To: 01 February 2026
 
-Total Time: 11 hrs 46 mins
+Total Time: 9 hrs 50 mins
 
-Java             11 hrs 38 mins  ████████████████████████▓   98.90 %
-GitIgnore file   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Java             9 hrs 44 mins   ████████████████████████▓   99.03 %
+GitIgnore file   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:waka-->
