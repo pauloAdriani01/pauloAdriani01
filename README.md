@@ -38,18 +38,14 @@ Meu interesse principal hoje é no **desevolvimento Android nativo**
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 February 2026 - To: 15 February 2026
+From: 09 February 2026 - To: 16 February 2026
 
-Total Time: 5 hrs 26 mins
+Total Time: 2 hrs 51 mins
 
-TypeScript       2 hrs 23 mins   ███████████░░░░░░░░░░░░░░   44.05 %
-Kotlin           1 hr 14 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.69 %
-C                1 hr 5 mins     █████░░░░░░░░░░░░░░░░░░░░   20.15 %
-CSS              38 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
-HTML             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Kotlin           1 hr 45 mins    ███████████████▒░░░░░░░░░   61.35 %
+C                1 hr 5 mins     █████████▓░░░░░░░░░░░░░░░   38.34 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
