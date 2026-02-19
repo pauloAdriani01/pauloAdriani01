@@ -38,14 +38,14 @@ Meu interesse principal hoje é no **desevolvimento Android nativo**
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2026 - To: 17 February 2026
+From: 11 February 2026 - To: 18 February 2026
 
-Total Time: 6 hrs 19 mins
+Total Time: 6 hrs 31 mins
 
-Kotlin           5 hrs                 ███████████████████▓░░░░░   79.04 %
-C                1 hr 16 mins          █████░░░░░░░░░░░░░░░░░░░░   20.08 %
-XML              2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Other            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Kotlin           5 hrs 1 min           ███████████████████▒░░░░░   76.87 %
+C                1 hr 27 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.27 %
+XML              2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Other            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 GitIgnore file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
