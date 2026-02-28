@@ -38,18 +38,18 @@ Meu interesse principal hoje é no **desevolvimento Android nativo**
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 February 2026 - To: 26 February 2026
+From: 20 February 2026 - To: 27 February 2026
 
-Total Time: 5 hrs 56 mins
+Total Time: 4 hrs 17 mins
 
-Java              3 hrs 39 mins         ███████████████▒░░░░░░░░░   61.17 %
-Kotlin            1 hr 56 mins          ████████░░░░░░░░░░░░░░░░░   32.34 %
-XML               11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-Properties        6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-Text              2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-Other             2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Java Properties   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-GitIgnore file    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Java              2 hrs                 ███████████▓░░░░░░░░░░░░░   46.26 %
+Kotlin            1 hr 56 mins          ███████████▒░░░░░░░░░░░░░   44.75 %
+XML               11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+Properties        6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Text              2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Other             2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Java Properties   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+GitIgnore file    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
