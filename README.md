@@ -13,8 +13,6 @@ Meu interesse principal hoje é no **desevolvimento Android nativo**
 ## ✨ Stack Principal
 
 <p>
-  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-plain.svg" />
   <img height="60em" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img height="55em" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
