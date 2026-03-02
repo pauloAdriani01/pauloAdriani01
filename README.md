@@ -5,7 +5,6 @@
 Sou um estudante brasileiro de programação e tecnologia que adora mexer com código    
 **Comecei a programar em 2024** com algumas aulas de Python na minha escola e não parei desde então   
 Atualmente, estou no curso superior de **Análise e Desenvolvimento de Sistemas** no Instituto Federal de São Paulo, no **Terceiro Semestre**  
-Meu interesse principal hoje é no **desevolvimento Android nativo**
 
 <br clear="right">
 
