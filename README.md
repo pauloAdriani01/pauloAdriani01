@@ -35,18 +35,11 @@ Atualmente, estou no curso superior de **Análise e Desenvolvimento de Sistemas*
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 February 2026 - To: 03 March 2026
+From: 25 February 2026 - To: 04 March 2026
 
-Total Time: 1 hr 27 mins
+Total Time: 0 secs
 
-Java              1 hr 13 mins          ████████████████████▓░░░░   82.34 %
-Properties        6 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-XML               3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-Text              2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-Other             2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-Java Properties   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-GitIgnore file    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Kotlin            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
