@@ -12,8 +12,10 @@ Atualmente, estou no curso superior de **Análise e Desenvolvimento de Sistemas*
 ## ✨ Stack Principal
 
 <p>
-  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img height="55em" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img height="55em" alt="laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <img height="55em" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img height="55em" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img height="55em" alt="bs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img height="55em" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
 
@@ -22,10 +24,12 @@ Atualmente, estou no curso superior de **Análise e Desenvolvimento de Sistemas*
 ### 💻 Outras Linguagens / Ferramentas
 
 <p>
+  <img height="55em" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img height="55em" alt="c" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
-  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img height="55em" alt="py" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img height="55em" alt="sql "src="https://github.com/user-attachments/assets/dbfe9fce-8cdb-4d8c-826c-8ce151b04d8d">
   <img height="55em" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img height="55em" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img height="55em" alt="md" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
 </p>
 
