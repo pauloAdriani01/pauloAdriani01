@@ -40,18 +40,18 @@ Atualmente, estou no curso superior de **Análise e Desenvolvimento de Sistemas*
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 March 2026 - To: 19 March 2026
+From: 13 March 2026 - To: 20 March 2026
 
-Total Time: 1 hr 28 mins
+Total Time: 2 hrs 1 min
 
-PHP              56 mins               ████████████████░░░░░░░░░   63.99 %
-Git Config       12 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.09 %
-HTML             11 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
-Blade Template   6 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
-Text             0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-Other            0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-JSON             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-Apache Config    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+PHP              1 hr 1 min            ████████████▓░░░░░░░░░░░░   50.44 %
+Blade Template   35 mins               ███████▒░░░░░░░░░░░░░░░░░   28.70 %
+Git Config       12 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
+HTML             11 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+Text             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Other            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+JSON             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Apache Config    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
