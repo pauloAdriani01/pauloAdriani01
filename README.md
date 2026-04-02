@@ -40,14 +40,14 @@ Atualmente, estou no curso superior de **Análise e Desenvolvimento de Sistemas*
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2026 - To: 31 March 2026
+From: 25 March 2026 - To: 01 April 2026
 
-Total Time: 2 hrs 29 mins
+Total Time: 2 hrs 54 mins
 
-PHP              1 hr 32 mins          ███████████████▒░░░░░░░░░   61.61 %
-Blade Template   55 mins               █████████▒░░░░░░░░░░░░░░░   36.90 %
-C                1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-Bash             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+PHP              1 hr 56 mins          ████████████████▓░░░░░░░░   66.56 %
+Blade Template   55 mins               ████████░░░░░░░░░░░░░░░░░   31.68 %
+C                2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Bash             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
