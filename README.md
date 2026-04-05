@@ -42,17 +42,17 @@ Meu foco atual é o **Desenvolvimento Web** com **Laravel** e **Análise de Dado
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 March 2026 - To: 03 April 2026
+From: 28 March 2026 - To: 04 April 2026
 
-Total Time: 4 hrs 46 mins
+Total Time: 3 hrs 34 mins
 
-PHP              2 hrs 22 mins         ████████████▒░░░░░░░░░░░░   49.72 %
-Blade Template   1 hr 50 mins          █████████▓░░░░░░░░░░░░░░░   38.50 %
-CSS              18 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
-Python           8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-Git Config       3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-Text             2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-C                0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+PHP              1 hr 32 mins          ██████████▓░░░░░░░░░░░░░░   43.32 %
+Blade Template   1 hr 27 mins          ██████████▒░░░░░░░░░░░░░░   40.93 %
+CSS              18 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+Python           8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+Git Config       3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Text             2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+C                0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 Other            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
